@@ -1,0 +1,15 @@
+
+.text-area {
+		text-align: center;
+}
+.title {
+		font-size: 36rpx;
+		color: #8f8f94;
+}
+.link {
+		color: #666;
+		text-decoration: underline;
+}
+.link-box {
+		display: flex;
+}

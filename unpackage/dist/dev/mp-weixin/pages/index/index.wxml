@@ -1,0 +1,1 @@
+<view class="content"><view class="text-area"><text class="title">{{a}}</text></view><view class="link-box"><text bindtap="{{b}}">js跳转</text><navigator url="/pages/mine/mine" open-type="switchTab" class="link">我的</navigator></view></view>
